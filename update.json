@@ -1,6 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "",
-  "pub_date": "",
-  "platforms": {}
+  "version": "0.1.5",
+  "notes": "Updated app name to PharmKeep and updated icon logo.",
+  "pub_date": "2026-07-03T15:21:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTjlYZnNOMy96WEIrbENQdnd4MzBNdytJaFFMSC9Yc3RuSnZXUEpsVk1YalBHYzJQd2VsRFkwWHBvaVRsbGF1d2hKWTAyOE84NUVBYmU2bUVjOFc4N0RxcXRRWWE2NXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTAwMzI1CWZpbGU6UGhhcm1LZWVwXzAuMS41X3g2NF9lbi1VUy5tc2kKVUVoKzZWVG9xZ3VrOUIwWGRJVW52RXhRZ1RHSXh6UlUwWmtBQjA5eUdxMStHdHZWc2JGZzB6RlRkSDgxVHlxSTRoSjV4MzN2Ykc1ZkVoaG9rQkd2Q3c9PQo=",
+      "url": "https://github.com/Jesty-max/pharmkeep-updates/releases/download/v0.1.5/PharmKeep_0.1.5_x64_en-US.msi"
+    }
+  }
 }
