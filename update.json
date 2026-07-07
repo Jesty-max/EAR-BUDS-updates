@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Update to solve the offline issue.",
-  "pub_date": "2026-07-04T15:11:00Z",
+  "version": "0.1.7",
+  "notes": "Major update",
+  "pub_date": "2026-07-07T15:11:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTjlYZnNOMy96WEVwSmtGK3d2UERHcE44L1cvK3M0emQ4S040czhMMXhMZVF3VFM0ZHRoSkZ5RkR6UVlzWDM2M0RaUkE3VHd3eVBiSjlwNmJsK0tTeEJLT1o3Y3RmT0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTY0NzI3CWZpbGU6UGhhcm1LZWVwXzAuMS42X3g2NF9lbi1VUy5tc2kKbUphTStpdmJUVEtxeFJjOTNRZFFsOGtWYTd4WkovZGJlek5aL1R5cEpCdUFObXpnN3J1dVFFOHhBQUhTM00xSUsvMW5paHY5bVM4WUdOalRGWlZxQUE9PQo=",
-      "url": "https://github.com/Jesty-max/EAR-BUDS-updates/releases/download/v0.1.6/PharmKeep_0.1.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTjlYZnNOMy96WFBuV2swVWYxa1JTT28xTXlsamtkRm1yUmw1ZWZmdjBqUHFwK3VEeWRFNkx0MW1GYzBhdG5hZnZOYVJmNStIRW5QaGlLVWw4OENnMm9yRFJVdklXOGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDM1MjcwCWZpbGU6UGhhcm1LZWVwXzAuMS43X3g2NF9lbi1VUy5tc2kKdDdpaVVEakhienU1a0g4UWJhYnAzRms5VXVYaDRGYllRN0RmaGhKcUVXdE5vYXMzOVZyeklpbmY1VzNBK0dkRG1HNjFjYmNzT2tqVm9KTDVFK1o2REE9PQo=",
+      "url": "https://github.com/Jesty-max/EAR-BUDS-updates/releases/download/v0.1.7/PharmKeep_0.1.7_x64_en-US.msi"
     }
   }
 }
